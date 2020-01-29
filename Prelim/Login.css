@@ -1,0 +1,29 @@
+body {background-color: #3C40C6;
+font-family:Times New Roman;
+}
+
+h1{
+	font-family: Times New Roman;
+	font-style: italic;
+	font-size: 56px;
+	color: #FBFBFB; 
+}
+
+label{
+	  color:#FBFBFB;
+	  font-family: Roboto;
+	  font-size: 16px;
+}
+
+#username{
+	
+  border: none;
+  border-bottom: 2px solid white;
+}
+
+}
+#pwd{
+
+  border: none;
+  border-bottom: 2px solid white;
+}
